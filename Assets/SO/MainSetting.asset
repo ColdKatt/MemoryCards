@@ -12,3 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d6407f589afdbea488c651283e22a671, type: 3}
   m_Name: MainSetting
   m_EditorClassIdentifier: 
+  _repeatCount: 54
+  _revertChance: 0
